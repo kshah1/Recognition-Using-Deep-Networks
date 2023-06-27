@@ -33,7 +33,7 @@ python taskFour.py
 python extension.py
 
 ## Where to execute
-Run all these executables within the ProjectFiveMain folder level
+Run all these executables one level down in the root directory. Keep the data folders and executables all here. 
 
 ## Additional Folders
 figures: Contains the results  
