@@ -212,7 +212,7 @@ def main(argv):
     loss_fn = nn.NLLLoss()
     optimizer = optim.SGD(model.parameters(), lr=learningRate, momentum=momentum)
 
-    # # Fix image for test losses
+    # Train the network 
     train_network(model, train_dataloader, test_dataloader, epochs=numEpochs, optimizer=optimizer, lossFunction=loss_fn)
 
     # # Save the model.

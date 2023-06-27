@@ -37,7 +37,7 @@ Run all these executables within the ProjectFiveMain folder level
 
 ## Additional Folders
 figures: Contains the results  
-GreekLetters: Contains alpha, beta, gamma, omega, and delta greek letters for different tasks  
+GreekLetters: Contains alpha, beta, gamma, omega, and delta greek letters for different tasks (needed for taskThree.py and extension.py)     
 models: Saves the model  
-newestDigits: Contains personal handwritten digits   
+newestDigits: Contains personal handwritten digits (needed for taskOneRemainder.py)    
 

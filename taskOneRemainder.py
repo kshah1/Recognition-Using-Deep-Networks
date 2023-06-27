@@ -61,7 +61,7 @@ def main(argv):
     loadedModel.eval()
 
 
-    # Uncomment up to line 92 to plot the first ten examples in the test set after loading the model in 
+    # Uncomment up to line 90 to plot the first ten examples in the test set after loading the model in 
 
     # images = []
     # predictions = []
