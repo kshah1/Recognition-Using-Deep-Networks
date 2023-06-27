@@ -8,9 +8,9 @@ If any issues, contact me at shah.karan3@northeastern.edu
 
 ## Environment
 
-OS: MacOS M1 Pro
-IDE: Visual Studio Code
-Python version: 3.9.12
+OS: MacOS M1 Pro  
+IDE: Visual Studio Code  
+Python version: 3.9.12  
 
 # How to run the code
 
@@ -36,8 +36,8 @@ python extension.py
 Run all these executables within the ProjectFiveMain folder level
 
 ## Additional Folders
-figures: Contains the results
-GreekLetters: Contains alpha, beta, gamma, omega, and delta greek letters for different tasks
-models: Saves the model
-newestDigits: Contains personal handwritten digits 
+figures: Contains the results  
+GreekLetters: Contains alpha, beta, gamma, omega, and delta greek letters for different tasks  
+models: Saves the model  
+newestDigits: Contains personal handwritten digits   
 
